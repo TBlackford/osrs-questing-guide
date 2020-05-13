@@ -1,0 +1,45 @@
+{
+    "quests": [
+        {
+            "order": 1,
+            "questName": "Tutorial Island",
+            "location": "Lumbridge",
+            "difficulty": "Novice",
+            "length": "Short",
+
+            "questPoints": 0,
+            "membersOnly": false,
+            "requirements": [],
+            "gainedFromQuest": [],
+        },
+        {
+            "order": 2,
+            "questName": "Cook's Assistant",
+            "location": "Lumbridge",
+            "difficulty": "Novice",
+            "length": "Short",
+
+            "questPoints": 1,
+            "membersOnly": false,
+            "requirements": [],
+            "gainedFromQuest": [
+                {
+                    "skill": "Cooking",
+                    "level": 4
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "questName": "X Marks the Spot",
+            "location": "Lumbridge",
+            "difficulty": "Novice",
+            "length": "Short",
+
+            "questPoints": 1,
+            "membersOnly": false,
+            "requirements": [],
+            "gainedFromQuest": []
+        }
+    ]
+}
